@@ -8,7 +8,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   WakelockPlus.enable();
   Gemini.init(
-    apiKey: 'AIzaSyBU2hIOx5jU0kOQ91Z-iHgpBogpeuqmzQA',
+    apiKey: 'Enter your api key',
     enableDebugging: true,
   );
   await SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp])
