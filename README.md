@@ -1,6 +1,9 @@
 # gemini_chat_ai
 
-Implementation of Google Gemini Ai in flutter using flutter_gemini package 
+Implementation of Google Gemini Ai Chat in flutter using flutter_gemini package 
 
 ## ScreenShots 
-(https://github.com/mohShahbel/flutter-gemini-ai/blob/main/screenshots/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A4%D9%A0%D9%A2%D9%A2%D9%A8_%D9%A0%D9%A9%D9%A4%D9%A7%D9%A5%D9%A1.jpg)
+<img src="/repository/screenshots/Screenshot_٢٠٢٤٠٢٢٨_٠٩٤٧٥١.jpg" alt="Splash Screen" title="Splash Screen">
+<img src="/repository/screenshots/Screenshot_٢٠٢٤٠٢٢٨_٠٩٤٧٥٧.jpg" alt="home Screen" title="home Screen">
+<img src="/repository/screenshots/Screenshot_٢٠٢٤٠٢٢٨_٠٩٤٨٢٦.jpg" alt="loading ai response" title="loading ai response">
+<img src="/repository/screenshots/Screenshot_٢٠٢٤٠٢٢٨_٠٩٤٨٤٣.jpg" alt="display ai response" title="display ai response">
